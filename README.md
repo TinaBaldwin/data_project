@@ -19,7 +19,7 @@
 
 
 ### Summary
-#### In conclusion, age, gender, and a higher level of education are associated wtih reading more books each month. Women tend to read more than men. Seniors read more than children who read mroe tahn adults. Income and marital status do not appear to impact average number of books read per month. 
+#### In conclusion, age, gender, and a higher level of education are associated wtih reading more books each month. Women tend to read more than men. Seniors read more than children who read mmore than adults. Income and marital status do not appear to impact average number of books read per month. 
 
 ### Recommendations
 #### This is a small data set. In order to determine if these findings can be generalized to a larger population, a larger data set should be obtained. Additionally, these findings are limited given the geographical location of the individuals contributing to the data set is unknown. It is also unknown when and how this data was obtained. It is recommended that fu4rther analysis of this data could be completed with more advanced statistical methods. It is also recommended that to enlarge the data set, so that it could possibly be more valid to generalize to the larger population, that other data sets of simliar or related data be merged into this one to enlarge the data set. 
